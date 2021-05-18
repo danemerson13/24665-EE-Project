@@ -1,5 +1,5 @@
 ### CMU 24-655 P4: EE Final Project
-##### Rishab Nagori, Nikhila Vembu, Bradley Scammon, Dan Emerson
+##### (c) Rishab Nagori, Nikhila Vembu, Bradley Scammon, Dan Emerson
 
 There are four folders of code needed to run this project.
 
