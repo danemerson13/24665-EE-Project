@@ -12,5 +12,5 @@ There are four folders of code needed to run this project.
 
 *model_code* includes Python code detailing our model selection and optimization process. Note: there is an additional readme.txt file in this zip with detailed directions about each of the specific python scripts and other files included.
 
-Contact: [Daniel Emerson](danielem@andrew.cmu.edu)
+Contact: [Daniel Emerson](mailto:danielem@andrew.cmu.edu)
 
