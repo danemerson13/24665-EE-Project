@@ -5,7 +5,7 @@ This zip contains three python notebooks, variousmodels_final.ipynb, xgboost_fin
 
 The zip file also contains three .csv files which include all of the preprocessed data, from the JSI dataset as well as our own Empatica data. There are three files, *pwrtbl_all.csv*, which includes the feature expanded frequency domain JSI data, *tbl_all.csv* which includes the plain JSI data, and *groupdata.csv* which includes the Empatica data collected by our own group.
 
-*In the GITHUB version of this code, these files can be created from the original Chiron data using the preprocessing MATLAB scripts.*
+**In the GITHUB version of this code, these files can be created from the original Chiron data using the preprocessing MATLAB scripts.**
 
 The first notebook, *variousmodels_final.ipynb* is used as a preliminary script to aide in selecting a specific model to progress with. The models were weakly tuned to get a general idea of which method might be the best idea going forward. The decision tree and xgboost models performed well, along with the neural network model. In the end, we decided to proceed with XGBoost as our ML model.
 
