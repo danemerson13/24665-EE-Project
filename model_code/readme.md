@@ -3,7 +3,7 @@ Author: Dan Emerson
 
 This zip contains three python notebooks, variousmodels_final.ipynb, xgboost_final.ipynb, and xgboost_final_empatica.ipynb.
 
-The zip file also contains three .csv files which include all of the preprocessed data, from the JSI dataset as well as our own Empatica data. There are three files, pwrtbl_all.csv, which includes the feature expanded frequency domain JSI data, tbl_all.csv which includes the plain JSI data, and groupdata.csv which includes the Empatica data collected by our own group.
+The zip file also contains three .csv files which include all of the preprocessed data, from the JSI dataset as well as our own Empatica data. There are three files, *pwrtbl_all.csv*, which includes the feature expanded frequency domain JSI data, *tbl_all.csv* which includes the plain JSI data, and *groupdata.csv* which includes the Empatica data collected by our own group.
 
 *In the GITHUB version of this code, these files can be created from the original Chiron data using the preprocessing MATLAB scripts.*
 
