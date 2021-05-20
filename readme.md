@@ -4,7 +4,7 @@
 There are four folders of code needed to run this project.
 
 *Chiron* contains all of the subject data from the JSI dataset provided to us by the instructors.
-**In the GITHUB version of this code, the Chiron data is too large to be upoaded. Instead, you must download from the original authors [here](https://dis.ijs.si/ami-repository/datasets/chiron.rar)**
+**In the GITHUB version of this code, the Chiron data is too large to be uploaded. Instead, you must download from the original authors [here](https://dis.ijs.si/ami-repository/datasets/chiron.rar)**
 
 *EE_preprocessing* includes Matlab code for preprocessing of the data, including extrapolation and feature expansion.
 
